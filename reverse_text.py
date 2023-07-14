@@ -1,3 +1,3 @@
-def reverse_text(value):
-    """bad foo"""
-    return value[::-1]
+def reverse_text(value: str):
+    """bad foo bad"""
+    return value[::-3]
